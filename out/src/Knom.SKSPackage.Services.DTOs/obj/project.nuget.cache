@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LdJL5MiyruaFL2ymwEpHFV8Fg6F0i2d6RocTO7xy0XxsehidXuNE5K/sVXR0OJzAot4hbfAuQKINFGgsi480Tg==",
+  "dgSpecHash": "gb1cnPKgCBI7iCgGR3PK2EL7PCNljihK9aQQsebVDScnZx1LHu2OXLYSCvdS1EcGGGCRlQUQ6ukw2tOwgFR7LQ==",
   "success": true,
   "projectFilePath": "E:\\FH\\Sem_5\\Labor\\Projekt\\LaborProjekt\\out\\src\\Knom.SKSPackage.Services.DTOs\\Knom.SKSPackage.Services.DTOs.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\amoln\\.nuget\\packages\\jsonsubtypes\\1.8.0\\jsonsubtypes.1.8.0.nupkg.sha512",
+    "C:\\Users\\amoln\\.nuget\\packages\\jsonsubtypes\\1.9.0\\jsonsubtypes.1.9.0.nupkg.sha512",
     "C:\\Users\\amoln\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.0-rc.1.21452.15\\microsoft.aspnetcore.jsonpatch.6.0.0-rc.1.21452.15.nupkg.sha512",
     "C:\\Users\\amoln\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.0-rc.1.21452.15\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.0-rc.1.21452.15.nupkg.sha512",
     "C:\\Users\\amoln\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
