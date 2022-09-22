@@ -1,0 +1,311 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MolnarSuchomel.SKS.Package.Services.DTOs</name>
+    </assembly>
+    <members>
+        <member name="T:MolnarSuchomel.SKS.Package.Services.Converters.CustomEnumConverter`1">
+            <summary>
+            Custom string to enum converter
+            </summary>
+        </member>
+        <member name="M:MolnarSuchomel.SKS.Package.Services.Converters.CustomEnumConverter`1.CanConvertFrom(System.ComponentModel.ITypeDescriptorContext,System.Type)">
+            <summary>
+            Determine if we can convert a type to an enum
+            </summary>
+            <param name="context"></param>
+            <param name="sourceType"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MolnarSuchomel.SKS.Package.Services.Converters.CustomEnumConverter`1.ConvertFrom(System.ComponentModel.ITypeDescriptorContext,System.Globalization.CultureInfo,System.Object)">
+            <summary>
+            Convert from a type value to an enum
+            </summary>
+            <param name="context"></param>
+            <param name="culture"></param>
+            <param name="value"></param>
+            <returns></returns>
+        </member>
+        <member name="T:MolnarSuchomel.SKS.Package.Services.DTOs.Error">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:MolnarSuchomel.SKS.Package.Services.DTOs.Error.ErrorMessage">
+            <summary>
+            The error message.
+            </summary>
+            <value>The error message.</value>
+        </member>
+        <member name="T:MolnarSuchomel.SKS.Package.Services.DTOs.GeoCoordinate">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:MolnarSuchomel.SKS.Package.Services.DTOs.GeoCoordinate.Lat">
+            <summary>
+            Latitude of the coordinate.
+            </summary>
+            <value>Latitude of the coordinate.</value>
+        </member>
+        <member name="P:MolnarSuchomel.SKS.Package.Services.DTOs.GeoCoordinate.Lon">
+            <summary>
+            Longitude of the coordinate.
+            </summary>
+            <value>Longitude of the coordinate.</value>
+        </member>
+        <member name="T:MolnarSuchomel.SKS.Package.Services.DTOs.Hop">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:MolnarSuchomel.SKS.Package.Services.DTOs.Hop.HopType">
+            <summary>
+            Gets or Sets HopType
+            </summary>
+        </member>
+        <member name="P:MolnarSuchomel.SKS.Package.Services.DTOs.Hop.Code">
+            <summary>
+            Unique CODE of the hop.
+            </summary>
+            <value>Unique CODE of the hop.</value>
+        </member>
+        <member name="P:MolnarSuchomel.SKS.Package.Services.DTOs.Hop.Description">
+            <summary>
+            Description of the hop.
+            </summary>
+            <value>Description of the hop.</value>
+        </member>
+        <member name="P:MolnarSuchomel.SKS.Package.Services.DTOs.Hop.ProcessingDelayMins">
+            <summary>
+            Delay processing takes on the hop.
+            </summary>
+            <value>Delay processing takes on the hop.</value>
+        </member>
+        <member name="P:MolnarSuchomel.SKS.Package.Services.DTOs.Hop.LocationName">
+            <summary>
+            Name of the location (village, city, ..) of the hop.
+            </summary>
+            <value>Name of the location (village, city, ..) of the hop.</value>
+        </member>
+        <member name="P:MolnarSuchomel.SKS.Package.Services.DTOs.Hop.LocationCoordinates">
+            <summary>
+            Gets or Sets LocationCoordinates
+            </summary>
+        </member>
+        <member name="T:MolnarSuchomel.SKS.Package.Services.DTOs.HopArrival">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:MolnarSuchomel.SKS.Package.Services.DTOs.HopArrival.Code">
+            <summary>
+            Unique CODE of the hop.
+            </summary>
+            <value>Unique CODE of the hop.</value>
+        </member>
+        <member name="P:MolnarSuchomel.SKS.Package.Services.DTOs.HopArrival.Description">
+            <summary>
+            Description of the hop.
+            </summary>
+            <value>Description of the hop.</value>
+        </member>
+        <member name="P:MolnarSuchomel.SKS.Package.Services.DTOs.HopArrival.DateTime">
+            <summary>
+            The date/time the parcel arrived at the hop.
+            </summary>
+            <value>The date/time the parcel arrived at the hop.</value>
+        </member>
+        <member name="T:MolnarSuchomel.SKS.Package.Services.DTOs.NewParcelInfo">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:MolnarSuchomel.SKS.Package.Services.DTOs.NewParcelInfo.TrackingId">
+            <summary>
+            The tracking ID of the parcel. 
+            </summary>
+            <value>The tracking ID of the parcel. </value>
+        </member>
+        <member name="T:MolnarSuchomel.SKS.Package.Services.DTOs.Parcel">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:MolnarSuchomel.SKS.Package.Services.DTOs.Parcel.Weight">
+            <summary>
+            Gets or Sets Weight
+            </summary>
+        </member>
+        <member name="P:MolnarSuchomel.SKS.Package.Services.DTOs.Parcel.Recipient">
+            <summary>
+            Gets or Sets Recipient
+            </summary>
+        </member>
+        <member name="P:MolnarSuchomel.SKS.Package.Services.DTOs.Parcel.Sender">
+            <summary>
+            Gets or Sets Sender
+            </summary>
+        </member>
+        <member name="T:MolnarSuchomel.SKS.Package.Services.DTOs.Recipient">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:MolnarSuchomel.SKS.Package.Services.DTOs.Recipient.Name">
+            <summary>
+            Name of person or company.
+            </summary>
+            <value>Name of person or company.</value>
+        </member>
+        <member name="P:MolnarSuchomel.SKS.Package.Services.DTOs.Recipient.Street">
+            <summary>
+            Street
+            </summary>
+            <value>Street</value>
+        </member>
+        <member name="P:MolnarSuchomel.SKS.Package.Services.DTOs.Recipient.PostalCode">
+            <summary>
+            Postalcode
+            </summary>
+            <value>Postalcode</value>
+        </member>
+        <member name="P:MolnarSuchomel.SKS.Package.Services.DTOs.Recipient.City">
+            <summary>
+            City
+            </summary>
+            <value>City</value>
+        </member>
+        <member name="P:MolnarSuchomel.SKS.Package.Services.DTOs.Recipient.Country">
+            <summary>
+            Country
+            </summary>
+            <value>Country</value>
+        </member>
+        <member name="T:MolnarSuchomel.SKS.Package.Services.DTOs.TrackingInformation">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:MolnarSuchomel.SKS.Package.Services.DTOs.TrackingInformation.StateEnum">
+            <summary>
+            State of the parcel.
+            </summary>
+            <value>State of the parcel.</value>
+        </member>
+        <member name="F:MolnarSuchomel.SKS.Package.Services.DTOs.TrackingInformation.StateEnum.PickupEnum">
+            <summary>
+            Enum PickupEnum for Pickup
+            </summary>
+        </member>
+        <member name="F:MolnarSuchomel.SKS.Package.Services.DTOs.TrackingInformation.StateEnum.InTransportEnum">
+            <summary>
+            Enum InTransportEnum for InTransport
+            </summary>
+        </member>
+        <member name="F:MolnarSuchomel.SKS.Package.Services.DTOs.TrackingInformation.StateEnum.InTruckDeliveryEnum">
+            <summary>
+            Enum InTruckDeliveryEnum for InTruckDelivery
+            </summary>
+        </member>
+        <member name="F:MolnarSuchomel.SKS.Package.Services.DTOs.TrackingInformation.StateEnum.TransferredEnum">
+            <summary>
+            Enum TransferredEnum for Transferred
+            </summary>
+        </member>
+        <member name="F:MolnarSuchomel.SKS.Package.Services.DTOs.TrackingInformation.StateEnum.DeliveredEnum">
+            <summary>
+            Enum DeliveredEnum for Delivered
+            </summary>
+        </member>
+        <member name="P:MolnarSuchomel.SKS.Package.Services.DTOs.TrackingInformation.State">
+            <summary>
+            State of the parcel.
+            </summary>
+            <value>State of the parcel.</value>
+        </member>
+        <member name="P:MolnarSuchomel.SKS.Package.Services.DTOs.TrackingInformation.VisitedHops">
+            <summary>
+            Hops visited in the past.
+            </summary>
+            <value>Hops visited in the past.</value>
+        </member>
+        <member name="P:MolnarSuchomel.SKS.Package.Services.DTOs.TrackingInformation.FutureHops">
+            <summary>
+            Hops coming up in the future - their times are estimations.
+            </summary>
+            <value>Hops coming up in the future - their times are estimations.</value>
+        </member>
+        <member name="T:MolnarSuchomel.SKS.Package.Services.DTOs.Transferwarehouse">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:MolnarSuchomel.SKS.Package.Services.DTOs.Transferwarehouse.RegionGeoJson">
+            <summary>
+            GeoJSON (https://geojson.org/) of the area covered by the logistics partner.
+            </summary>
+            <value>GeoJSON (https://geojson.org/) of the area covered by the logistics partner.</value>
+        </member>
+        <member name="P:MolnarSuchomel.SKS.Package.Services.DTOs.Transferwarehouse.LogisticsPartner">
+            <summary>
+            Name of the logistics partner.
+            </summary>
+            <value>Name of the logistics partner.</value>
+        </member>
+        <member name="P:MolnarSuchomel.SKS.Package.Services.DTOs.Transferwarehouse.LogisticsPartnerUrl">
+            <summary>
+            BaseURL of the logistics partner&#39;s REST service.
+            </summary>
+            <value>BaseURL of the logistics partner&#39;s REST service.</value>
+        </member>
+        <member name="T:MolnarSuchomel.SKS.Package.Services.DTOs.Truck">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:MolnarSuchomel.SKS.Package.Services.DTOs.Truck.RegionGeoJson">
+            <summary>
+            GeoJSON (https://geojson.org/) of the area covered by the truck.
+            </summary>
+            <value>GeoJSON (https://geojson.org/) of the area covered by the truck.</value>
+        </member>
+        <member name="P:MolnarSuchomel.SKS.Package.Services.DTOs.Truck.NumberPlate">
+            <summary>
+            The truck&#39;s number plate.
+            </summary>
+            <value>The truck&#39;s number plate.</value>
+        </member>
+        <member name="T:MolnarSuchomel.SKS.Package.Services.DTOs.Warehouse">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:MolnarSuchomel.SKS.Package.Services.DTOs.Warehouse.Level">
+            <summary>
+            Gets or Sets Level
+            </summary>
+        </member>
+        <member name="P:MolnarSuchomel.SKS.Package.Services.DTOs.Warehouse.NextHops">
+            <summary>
+            Next hops after this warehouse (warehouses or trucks).
+            </summary>
+            <value>Next hops after this warehouse (warehouses or trucks).</value>
+        </member>
+        <member name="T:MolnarSuchomel.SKS.Package.Services.DTOs.WarehouseNextHops">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:MolnarSuchomel.SKS.Package.Services.DTOs.WarehouseNextHops.TraveltimeMins">
+            <summary>
+            Gets or Sets TraveltimeMins
+            </summary>
+        </member>
+        <member name="P:MolnarSuchomel.SKS.Package.Services.DTOs.WarehouseNextHops.Hop">
+            <summary>
+            Gets or Sets Hop
+            </summary>
+        </member>
+    </members>
+</doc>
