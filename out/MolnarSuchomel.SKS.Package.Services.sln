@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MolnarSuchomel.SKS.Package.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MolnarSuchomel.SKS.Package.Services.DTOs", "src\MolnarSuchomel.SKS.Package.Services.DTOs\MolnarSuchomel.SKS.Package.Services.DTOs.csproj", "{B8D18F25-F379-4B87-ACCC-F8A17E0AED38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MolnarSuchomel.SKS.Package.Services.Interfaces", "MolnarSuchomel.SKS.Package.Services.Interfaces\MolnarSuchomel.SKS.Package.Services.Interfaces.csproj", "{79E1C338-D657-42D3-8262-99F5A65B7DEA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MolnarSuchomel.SKS.Package.Services.Interface", "MolnarSuchomel.SKS.Package.Services.Interface\MolnarSuchomel.SKS.Package.Services.Interface.csproj", "{D1C42CEE-2494-4001-802D-3C744499D3CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{B8D18F25-F379-4B87-ACCC-F8A17E0AED38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8D18F25-F379-4B87-ACCC-F8A17E0AED38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8D18F25-F379-4B87-ACCC-F8A17E0AED38}.Release|Any CPU.Build.0 = Release|Any CPU
-		{79E1C338-D657-42D3-8262-99F5A65B7DEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{79E1C338-D657-42D3-8262-99F5A65B7DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{79E1C338-D657-42D3-8262-99F5A65B7DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{79E1C338-D657-42D3-8262-99F5A65B7DEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1C42CEE-2494-4001-802D-3C744499D3CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1C42CEE-2494-4001-802D-3C744499D3CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1C42CEE-2494-4001-802D-3C744499D3CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1C42CEE-2494-4001-802D-3C744499D3CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
