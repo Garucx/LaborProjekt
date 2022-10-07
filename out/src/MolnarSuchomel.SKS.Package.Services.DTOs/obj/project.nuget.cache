@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9rYmMASQ1PzG8m1dO/I+Bigc1ZrJeLctORgeOIFKRDbQNgVjoF985ZvaUtUEaMZkdd9KkmbEZ8Kw53/F8HLfjA==",
+  "dgSpecHash": "tyPX5IzjlzkcsOCWITSCiK7O3g9Z4U282zPr/y/SjhkE8rFTAWURh3AhbAbfvO7HXrrmRI/l1HShERsEEkTvWQ==",
   "success": true,
-  "projectFilePath": "E:\\FH\\Sem_5\\Labor\\Projekt\\LaborProjekt\\out\\src\\MolnarSuchomel.SKS.Package.Services.DTOs\\MolnarSuchomel.SKS.Package.Services.DTOs.csproj",
+  "projectFilePath": "D:\\FH-Technikum\\5.Semester\\Labor\\Projekt\\LaborProjekt\\out\\src\\MolnarSuchomel.SKS.Package.Services.DTOs\\MolnarSuchomel.SKS.Package.Services.DTOs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amoln\\.nuget\\packages\\jsonsubtypes\\1.9.0\\jsonsubtypes.1.9.0.nupkg.sha512",
     "C:\\Users\\amoln\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.0-rc.1.21452.15\\microsoft.aspnetcore.jsonpatch.6.0.0-rc.1.21452.15.nupkg.sha512",

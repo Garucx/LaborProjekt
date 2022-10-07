@@ -1,0 +1,6 @@
+D:\FH-Technikum\5.Semester\Labor\Projekt\LaborProjekt\out\MolnarSuchomel.SKS.Package.Services.Interface\bin\Debug\MolnarSuchomel.SKS.Package.Services.Interface.dll
+D:\FH-Technikum\5.Semester\Labor\Projekt\LaborProjekt\out\MolnarSuchomel.SKS.Package.Services.Interface\bin\Debug\MolnarSuchomel.SKS.Package.Services.Interface.pdb
+D:\FH-Technikum\5.Semester\Labor\Projekt\LaborProjekt\out\MolnarSuchomel.SKS.Package.Services.Interface\obj\Debug\MolnarSuchomel.SKS.Package.Services.Interface.csproj.AssemblyReference.cache
+D:\FH-Technikum\5.Semester\Labor\Projekt\LaborProjekt\out\MolnarSuchomel.SKS.Package.Services.Interface\obj\Debug\MolnarSuchomel.SKS.Package.Services.Interface.csproj.CoreCompileInputs.cache
+D:\FH-Technikum\5.Semester\Labor\Projekt\LaborProjekt\out\MolnarSuchomel.SKS.Package.Services.Interface\obj\Debug\MolnarSuchomel.SKS.Package.Services.Interface.dll
+D:\FH-Technikum\5.Semester\Labor\Projekt\LaborProjekt\out\MolnarSuchomel.SKS.Package.Services.Interface\obj\Debug\MolnarSuchomel.SKS.Package.Services.Interface.pdb
